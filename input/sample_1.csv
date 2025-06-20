@@ -1,0 +1,31 @@
+Order Date,User,Stock Value,Unit Price
+2025-07-01,  Alice ,not_a_number,100
+2025-06-23,Bob,400,90
+2025-06-29,Alice,300,70
+2025-06-25,  Dan ,100,100
+2025-06-14,Alice,not_a_number,
+2025-06-02,Jack,500,100
+2025-06-21,Emily,,50
+2025-06-05,  Dan ,400,70
+2025-06-28,Frank,not_a_number,70
+2025-06-04,  Alice ,400,70
+2025-06-14,Emily,,
+2025-06-28,Ivy,,90
+2025-06-21,Frank,100,90
+2025-06-18,Frank,400,
+2025-06-01,Emily,100,100
+2025-06-03,Carol,200,70
+2025-06-18,  Alice ,500,100
+2025-06-11,Henry,400,70
+2025-06-12,Carol,100,90
+2025-06-03,Grace,not_a_number,100
+2025-06-12,  Alice ,100,80
+2025-06-28,Grace,,50
+2025-06-06,  Bob ,not_a_number,80
+2025-06-26,Grace,,invalid
+2025-06-05,Jack,not_a_number,50
+2025-06-10,Henry,500,
+2025-06-06,Bob,not_a_number,60
+2025-06-27,Henry,100,60
+2025-06-07,  Emily ,not_a_number,100
+2025-06-03,Grace,500,70

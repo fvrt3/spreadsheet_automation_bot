@@ -1,0 +1,22 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# Data
+input/
+output/
+*.log
+*.csv
+*.tsv
+*.xlsx
+
+# IDE/project files
+.vscode/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db

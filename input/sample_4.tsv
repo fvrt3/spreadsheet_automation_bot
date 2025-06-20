@@ -1,0 +1,26 @@
+Order Date	User	Stock Value	Item Cost
+2025-06-15	Frank	not_a_number	50
+	Ivy	not_a_number	80
+2025-06-28	Henry	not_a_number	50
+2025-06-10	Ivy	500	invalid
+2025-06-23	Bob	not_a_number	70
+	Jack		90
+	Bob	500	50
+2025-06-09	Jack	200	invalid
+2025-06-21	Dan	100	90
+2025-06-11	Alice	300	70
+2025-06-09	Frank	500	80
+2025-06-06	Frank	500	invalid
+2025-06-22	  Grace 	500	70
+2025-06-07	Ivy	not_a_number	90
+2025-06-24	Jack	500	invalid
+2025-07-01	Carol	400	80
+2025-06-28	Jack	400	70
+2025-06-21	Emily		70
+2025-06-06	  Frank 	300	
+	  Jack 		
+2025-06-11	Emily	not_a_number	80
+2025-06-17	  Dan 	not_a_number	invalid
+2025-06-15	  Emily 		50
+2025-06-17	  Jack 	400	
+2025-06-12	  Henry 	not_a_number	

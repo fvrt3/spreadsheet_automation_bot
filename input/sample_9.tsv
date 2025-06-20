@@ -1,0 +1,26 @@
+Transaction Time	Buyer	Amount Paid	Cost per Item
+2025-06-12	  Grace 	500	invalid
+2025-06-10	Emily	300	50
+2025-06-18	Emily		70
+2025-06-28	Henry	100	60
+2025-07-01	Frank	not_a_number	80
+2025-06-08	Alice	300	50
+	  Bob 	not_a_number	invalid
+2025-06-20	Emily	400	80
+2025-06-20	Emily	100	50
+2025-06-21	Henry	100	70
+2025-06-12	Bob		80
+2025-06-14	  Carol 	100	80
+2025-06-03	Jack	400	60
+2025-06-18	Grace	400	80
+2025-06-10	Carol		invalid
+2025-06-14	  Alice 	500	
+2025-06-10	  Bob 	200	70
+2025-06-14	  Grace 	300	90
+2025-06-06	  Henry 	500	
+2025-06-19	  Bob 	500	
+2025-06-30	Ivy		
+2025-06-05	Alice	400	100
+	  Frank 	500	50
+2025-06-23	  Dan 		60
+	Dan	400	70

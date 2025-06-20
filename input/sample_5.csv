@@ -1,0 +1,31 @@
+Year of Purchase,Buyer,Amount Paid,Item Cost
+2025-06-13,Dan,not_a_number,80
+2025-06-29,Grace,not_a_number,90
+2025-06-15,  Dan ,300,50
+2025-06-19,  Frank ,500,90
+2025-06-11,Henry,not_a_number,80
+2025-06-03,Frank,300,80
+,  Henry ,100,80
+2025-06-24,  Alice ,not_a_number,invalid
+2025-06-04,Ivy,400,100
+2025-06-06,Alice,100,50
+,  Ivy ,100,80
+2025-06-30,Dan,,60
+2025-06-04,Frank,300,invalid
+2025-06-05,  Alice ,200,100
+2025-06-07,Henry,400,80
+2025-06-12,  Emily ,100,90
+2025-06-06,Dan,200,60
+2025-06-08,Carol,300,invalid
+2025-06-26,  Frank ,400,80
+2025-06-13,Emily,500,60
+2025-06-29,  Frank ,200,100
+2025-06-21,Dan,not_a_number,60
+2025-06-17,Alice,500,50
+,Dan,,60
+2025-06-14,Henry,100,80
+2025-06-12,Carol,100,90
+,Bob,not_a_number,50
+2025-06-07,Bob,not_a_number,70
+2025-06-29,Carol,200,80
+2025-06-13,  Ivy ,100,90
